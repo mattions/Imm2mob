@@ -13,8 +13,23 @@ Che cos'è
 
 Questo il video sul tubo: http://www.youtube.com/watch?v=_d5pLoLBErA
 
-I numeri sono quelli che ho trovato sul blog. Non sò se la barchart sia la migliore idea,
+I numeri sono quelli che ho trovato sul blog. 
+
+> Abbiamo due alternative per detassare il lavoro per 15 miliardi di euro senza 
+> produrre un euro di debito e così dare un assegno di 550 euro all’anno a ciascun
+> dei 23 milioni di lavoratori di questo paese e a ciascuno dei 4 milioni di titolari
+>  di pensione minima.
+> 
+> La prima consiste nel chiedere un contributo medio di 40 euro al mese per ognuna
+> delle 32 milioni di abitazioni di questo paese. La seconda consiste nell’esentare
+> tutte le “prime case” e chiedere un contributo medio di 100 euro al mese per ognuna
+> dei 12 milioni di “seconde” e “terze” case di questo paese
+
+
+
+Non sò se la barchart sia la migliore idea,
 ma è quella che mi è venuta in mente.
+
 
 Forkatelo e miglioratelo se pensate sia utile.
 
