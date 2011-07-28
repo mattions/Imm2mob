@@ -1,10 +1,10 @@
 What is it
 ----------
 
-This README is in Italian, 'cause the discussion will interest mostly italian 
+This README is in Italian, 'cause the discussion will interest mostly Italian 
 people, therefore writing in English will cut out a lot of people.
 
-Sorry, from noe on in Italian.
+Sorry, from now on in Italian.
 
 Che cos'è
 ---------
@@ -25,9 +25,15 @@ Contributo a livello statale
 
 In Milioni di EUR (€)
 
+https://github.com/mattions/Imm2mob/blob/master/immobile_to_mobile_mil.png
+
 In EUR (€)
 
+https://github.com/mattions/Imm2mob/blob/master/immobile_to_mobile.png
+
 Contributo individuale (sarebbe a famiglia, leggete la proposta.)
+
+https://github.com/mattions/Imm2mob/blob/master/immobile_to_mobile_individuale.png
 
 Saluti,
 Michele.
