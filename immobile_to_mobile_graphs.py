@@ -50,7 +50,7 @@ def plot_options(money_in_first_option, money_in_second_option,
 	reacts1 = ax.bar(ind, (money_in_first_option, money_in_second_option), width, color='r')
 	reacts2 = ax.bar(ind+width, (money_out, money_out), width, color='g')
 	ax.set_xticks(ind+width)
-	ax.set_xticklabels(('Tutte Case (1st opz.)', 'Seconde e Terze Case [2nd opz.]'))
+	ax.set_xticklabels(('Tutte Case (1st opt)', 'Seconde e Terze Case (2nd opt)'))
 	autolabel(reacts1, ax)
 	autolabel(reacts2, ax)
 	ax.legend((reacts1[0], reacts2[1]), ('Soldi in', 'Soldi out'), loc=0)
@@ -80,8 +80,8 @@ def plot_per_individual(contr_first, contr_second, received, year=12):
 	autolabel(reacts1, ax)
 	autolabel(reacts2, ax)
 	autolabel(reacts3, ax)
-	ax.legend((reacts1[0], reacts2[0], reacts3[0]), ('Contributo Tutte Case', 
-													 'Contributo Seconde e Terze Case',
+	ax.legend((reacts1[0], reacts2[0], reacts3[0]), ('Contributo Tutte Case (1st opt)', 
+													 'Contributo Seconde e Terze Case (2st opt)',
 													 'Assegno'), loc=0)
 	ax.set_title("Proposta dall'immobile al mobile | prossimaitalia")
 	ax.set_xlabel('http://bit.ly/imm2mob')
