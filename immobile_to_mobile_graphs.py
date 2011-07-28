@@ -85,7 +85,6 @@ def plot_per_individual(contr_first, contr_second, received, year=12):
 													 'Assegno'), loc=0)
 	ax.set_title("Proposta dall'immobile al mobile | prossimaitalia")
 	ax.set_xlabel('http://bit.ly/imm2mob')
-	plt.savefig('immobile_to_mobile_mil.png')
 	ax.set_ylabel("EUR")
 	plt.ylim(0, 2000)
 	plt.savefig('immobile_to_mobile_individuale.png')		
